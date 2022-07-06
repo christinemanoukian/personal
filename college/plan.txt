@@ -1,0 +1,87 @@
+criteria:
+    major (do they have what im looking for?)
+    system (quarter vs semester)
+    politics (majority left wing? right wing? somewhere in the middle?)
+    location (is it safe? fun? miserable?)
+    housing (will i be able to live there?)
+    athletics (what division are they for girls basketball?)
+    cost (how much is tuition?)
+    ratio (what is the student to faculty ratio?)
+    vibes (what did i feel when i watched a video about the school on youtube?)
+
+
+Ranking of criteria most important to least:
+major - pts worth 10*ranking (IF GOOD)
+politics - pts worth 9*ranking (IF GOOD)
+housing - 8* ''
+vibes - 7* ''
+system - 6* ''
+ratio - 5* ''
+location - 4* ''
+cost - 3* ''
+athletics - 2* ''
+
+
+Major:
+Good: Y, JH, UCLA, T, HM, WU, SLO, UCI, UCSD, U, CWR, UCR, P, LB, UCSC
+Bad: NYU
+ranking:
+    P (6), JH & UCLA & T & UCI & UCSD & CWR & LB (5), WU & SLO & U & UCR & UCSC (4), Y (3), HM (2)
+    NYU (1)
+
+
+Politics:
+Good: Y, JH, UCLA, T, HM, WU, UCSD, NYU, CWR, UCR, LB, UCSC
+Bad: SLO, UCI, U, P
+ranking:
+    Y & JH & UCLA & WU & NYU & UCR & LB & UCSC (4), T & HM & UCSD & CWR (3)
+    SLO & UCI & U (2), P (1)
+
+
+Housing:
+Good: Y, JH, UCLA, T, HM, WU, SLO, UCI, NYU, P, UCSC
+Bad: UCSD, U, CWR, UCR, LB
+ranking:
+    good (2)
+    bad (1)
+
+
+Ratio:
+Good: Y, JH, T, HM, NYU, U
+Bad: UCLA, WU, SLO, UCI, UCSD, CWR, UCR, P, LB, UCSC
+ranking:
+    Y & JH (10), HM & NYU (9), T & U (8)
+    WU & CWR (7), P (6), UCLA & UCI (5), SLO & UCSD (4), LB (3), UCR (2), UCSC (1)
+
+
+Location:
+Good: Y, JH, UCLA, T, HM, WU, SLO, UCI, UCSD, NYU, U, UCR, P, LB, UCSC
+Bad: CWR
+ranking:
+    good (2)
+    bad (1)
+
+
+Cost:
+Good: UCLA, SLO, UCI, UCSD, UCR, LB, UCSC
+Bad: Y, JH, T, HM, WU, NYU, U, CWR, P
+ranking:
+    LB (11), SLO (10), UCLA & UCI (9), UCSD & UCR & UCSC (8)
+    P (7), CWR (6), JH & NYU (5), Y & WU (4), HM (3), U (2), T (1)
+
+
+System:
+Good: Y, JH, T, HM, WU, SLO, NYU, U, CWR, P, LB
+Bad: UCLA, UCI, UCSD, UCR, UCSC
+ranking:
+    good (2)
+    bad (1)
+
+
+Athletics:
+Good: JH, T, HM, WU, NYU, CW, UCSC
+Bad: Y, UCLA, SLO, UCI, UCSD, U, UCR, P, LB
+ranking:
+    good (2)
+    bad (1)
+    
